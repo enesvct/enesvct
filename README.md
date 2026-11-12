@@ -1,8 +1,6 @@
 ### Merhaba, ben Enes 👋
 
-İstanbul'da yaşayan bir backend geliştiriciyim. Ağırlıklı olarak **C#, .NET ve SQL** ile çalışıyorum. Fintech tarafında geçen yıllarım bana verinin tutarlı kalmasını, bir hatanın loglardan geriye doğru izlenebilmesini ve yetkilerin doğru yerde durmasını önemsemeyi öğretti. Projelerimde de en çok bu konular üzerine düşünüyorum.
-
-Çalıştığım ekiplere bildiklerimi getirmeyi, karşılığında da kendimden deneyimli insanlardan öğrenmeyi seviyorum. Şu an **yeni bir pozisyon arıyorum**.
+C# ve .NET ile backend geliştiriyorum, işin veritabanı tarafında da (MS SQL Server, PostgreSQL) epey vakit geçiriyorum. Son yıllarda fintech alanında, ağırlıklı olarak ERP geliştirme, raporlama ve SQL Server performansı üzerinde çalıştım.
 
 #### Üzerinde çalıştığım projeler
 
@@ -43,9 +41,7 @@ C#, T-SQL, ASP.NET Core (MVC, Web API), Entity Framework, Dapper, MS SQL Server,
 
 ### Hi, I'm Enes 👋
 
-I'm a backend developer based in Istanbul, working mostly with **C#, .NET and SQL**. My years in fintech taught me to care about data staying consistent, about being able to trace an error back through the logs, and about permissions living in the right place. Those are the things I think about most in my projects too.
-
-I like bringing what I know to the teams I work with, and learning from people more experienced than me in return. I'm currently **open to new opportunities**.
+I build backends with C# and .NET, and I spend a fair amount of time on the database side too (MS SQL Server, PostgreSQL). In recent years I've worked in fintech, mostly on ERP development, reporting and SQL Server performance.
 
 #### Projects
 
