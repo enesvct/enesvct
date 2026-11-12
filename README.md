@@ -1,6 +1,6 @@
 ### Merhaba, ben Enes 👋
 
-C# ve .NET ile backend geliştiriyorum, işin veritabanı tarafında da (MS SQL Server, PostgreSQL) epey vakit geçiriyorum. Son yıllarda fintech alanında, ağırlıklı olarak ERP geliştirme, raporlama ve SQL Server performansı üzerinde çalıştım.
+C# ve .NET ile backend geliştiriyorum, işin veritabanı tarafında da (MS SQL Server, PostgreSQL) epey vakit geçiriyorum. Son yıllarda fintech alanında, ağırlıklı olarak ERP geliştirme, raporlama ve SQL Server performansı üzerinde çalıştım. Geliştirirken AI kodlama ajanlarını da aktif olarak kullanıyorum; seçenekleri birlikte tartıyoruz, kararı ben veriyorum ve her değişikliği kendim gözden geçiriyorum.
 
 #### Üzerinde çalıştığım projeler
 
@@ -41,7 +41,7 @@ C#, T-SQL, ASP.NET Core (MVC, Web API), Entity Framework, Dapper, MS SQL Server,
 
 ### Hi, I'm Enes 👋
 
-I build backends with C# and .NET, and I spend a fair amount of time on the database side too (MS SQL Server, PostgreSQL). In recent years I've worked in fintech, mostly on ERP development, reporting and SQL Server performance.
+I build backends with C# and .NET, and I spend a fair amount of time on the database side too (MS SQL Server, PostgreSQL). In recent years I've worked in fintech, mostly on ERP development, reporting and SQL Server performance. I also actively use AI coding agents while I build; we weigh the options together, I make the call, and I review every change myself.
 
 #### Projects
 
