@@ -9,7 +9,7 @@ C# ve .NET ile backend geliştiriyorum, işin veritabanı tarafında da (MS SQL 
 Bir e-ticaret altyapısının ürün, sipariş ve stok kısmı. Amacım CRUD yazmak değil, gerçek hayatta karşılaşılan problemleri küçük bir kod tabanında çözmekti:
 - Sipariş ve olayları aynı transaction içinde yazan **outbox pattern**, böylece veritabanı ile arama indeksi birbirinden kopmuyor.
 - Aynı anda son ürünü almaya çalışan iki istek için **optimistic concurrency**, iki kez basılan "Satın al" butonu için **idempotency key**.
-- Modüller arası "geri al" olmadığı için **saga ve telafi** adımları; mesajları bilerek ters sırada teslim eden testlerle doğruladım.
+- Modüller arasında rollback olmadığı için **saga pattern** ve **compensating action**'lar; mesajları bilerek ters sırada gönderen testlerle doğruladım.
 - Modüler monolit ve Clean Architecture sınırları **mimari testleriyle** korunuyor, toplamda 160'tan fazla test var.
 
 **[TodayDbGate](https://github.com/enesvct/TodayDbGate)** · .NET, MCP, PostgreSQL / SQL Server / MySQL
