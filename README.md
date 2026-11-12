@@ -1,16 +1,10 @@
 ### Merhaba, ben Enes 👋
 
-İstanbul'da yaşayan bir yazılım geliştiriciyim. Yaklaşık üç yıldır ağırlıklı olarak **.NET** ve **MS SQL Server** ile çalışıyorum. Son iki buçuk yılımı faktoring ve fintech tarafında, şirket içinde gerçekten her gün kullanılan sistemler üzerinde geçirdim.
+İstanbul'da yaşayan bir yazılım geliştiriciyim. Yaklaşık üç yıldır ağırlıklı olarak **.NET** ve **MS SQL Server** ile çalışıyorum.
 
-En çok keyif aldığım iş, çalışan ama yorulmuş bir sistemi alıp onu bozmadan daha anlaşılır, izlenebilir ve hızlı hale getirmek. Eski WCF/SOAP servislerini .NET 8 Web API'ye taşımak, legacy Windows servislerini Hangfire'a geçirmek ya da yavaş bir sorguyu execution plan'e bakarak düzeltmek bu yüzden hoşuma gidiyor.
+Yazılıma web sitelerinden başladım. Tasarımcılarla aynı masada çalışırken kullanıcının ekranda ne gördüğünü önemsemeyi öğrendim. Sonra işin arka tarafına geçtim ve son yıllarımı faktoring ve fintech alanında, şirket içinde her gün kullanılan sistemler üzerinde geçirdim. Küçük bir ekiple büyük bir ERP'ye yeni modüller ekledim, denetim ve BDDK raporlamalarını hazırladım. Eski WCF servislerini .NET 8 Web API'ye, zamanlanmış işleri Hangfire'a taşıdım. Ortamlar arası yayın sürecini onay adımlarıyla güvenli hale getiren bir iç araç geliştirdim. Yavaş sorguları execution plan üzerinden okuyup düzelttim. Bu süreçte en çok şunu öğrendim: iyi bir değişiklik, onu kullanan insanların işini kolaylaştıran değişikliktir.
 
-**Neler yaptım?**
-
-- **Eko Fintech / Eko Faktoring** (2023 – 2026): ~100 kişinin kullandığı Windows Forms ERP'nin geliştirme ve bakımı, BDDK ve denetim raporlamaları, eski servislerin .NET Core'a taşınması, ortamlar arası yayın sürecini onay mekanizmasıyla otomatikleştiren bir deployment aracı (DDD, CQRS, MediatR), SQL Server performans ve bakım işleri.
-- **Rafinera** (2023): 10'dan fazla markanın web sitelerini tasarım ekibiyle birlikte geliştirip yönettim.
-- **Acunmedya Akademi** (2022 – 2023): 10 kişilik ekiple ASP.NET Core MVC tabanlı öğrenci takip sistemi.
-
-Şu an İstanbul Üniversitesi AUZEF'te Yönetim Bilişim Sistemleri okuyorum ve **yeni bir pozisyon arıyorum**.
+Çalıştığım her yere bildiklerimi getirmeye ve ekipte öğrendiklerimi paylaşmaya özen gösteriyorum. Aynı şekilde kendimden daha deneyimli insanlardan öğrenebileceğim, yeni şeyler denemekten çekinmeyen ekiplerde olmak istiyorum. Şu an İstanbul Üniversitesi AUZEF'te Yönetim Bilişim Sistemleri okuyorum ve **yeni bir pozisyon arıyorum**.
 
 **Burada neler var?**
 
@@ -31,17 +25,11 @@ En çok keyif aldığım iş, çalışan ama yorulmuş bir sistemi alıp onu boz
 
 ### Hi, I'm Enes 👋
 
-I'm a software developer based in Istanbul. For about three years I've mostly worked with **.NET** and **MS SQL Server**, the last two and a half of them in factoring and fintech, on internal systems people rely on every day.
+I'm a software developer based in Istanbul. For about three years I've mostly worked with **.NET** and **MS SQL Server**.
 
-What I enjoy most is taking a system that works but has grown tired, and making it clearer, easier to monitor and faster without breaking it: moving WCF/SOAP services to .NET 8 Web API, migrating legacy Windows services to Hangfire, or fixing a slow query by reading its execution plan.
+I started out building websites, sitting next to designers, which taught me to care about what users actually see on screen. Then I moved to the back end and spent recent years in factoring and fintech, on internal systems people use every day. With a small team I added new modules to a large ERP and built regulatory and audit reporting. I moved old WCF services to .NET 8 Web API and scheduled jobs to Hangfire. I built an internal tool that makes releases between environments safer with approval steps, and I fixed slow queries by reading their execution plans. The main thing I took from all this: a good change is one that makes life easier for the people who use the system.
 
-**Experience**
-
-- **Eko Fintech / Eko Faktoring** (2023 – 2026): maintained and extended a WinForms ERP used by ~100 people, built regulatory and audit reporting, migrated legacy services to .NET Core, built an internal deployment tool with approval workflows (DDD, CQRS, MediatR), and handled SQL Server performance tuning and maintenance.
-- **Rafinera** (2023): built and maintained websites for 10+ brands together with the design team.
-- **Acunmedya Academy** (2022 – 2023): student tracking system with ASP.NET Core MVC in a team of 10.
-
-I'm studying Management Information Systems at Istanbul University (AUZEF) and I'm **open to new opportunities**.
+Wherever I work, I try to bring what I know and share what I learn with the team. In the same way, I want to be on teams where I can learn from people more experienced than me and where trying new things is welcome. I'm studying Management Information Systems at Istanbul University (AUZEF) and I'm **open to new opportunities**.
 
 **Projects**
 
